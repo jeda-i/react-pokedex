@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+}
+
+.search{
+    align-items: center;
+}
+
+.app{
+    margin: 10%;
+    padding: 10%;
+    border: solid;
+    border-radius: 20%;
+}
